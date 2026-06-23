@@ -3,8 +3,8 @@ class Apm < Formula
 
   desc "Centralized API provider management for AI coding agents"
   homepage "https://github.com/jaxtonzhc/agent-provider-manager"
-  url "https://github.com/jaxtonzhc/agent-provider-manager/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "1534aaa8ce1e3e2d77aacbe141f069dbf5ac31ecfd1fb128cd100cd71dc5ad1f"
+  url "https://github.com/jaxtonzhc/agent-provider-manager/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "1c33f66806b7351056d6dff4e116ee66369825dc3aba12be350911f3b183cc1b"
   license "MIT"
 
   depends_on "python@3.9"
